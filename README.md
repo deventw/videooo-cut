@@ -143,5 +143,5 @@ uv add --dev package-name
 
 ## License
 
-Add your license here.
+MIT
 
